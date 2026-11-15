@@ -9,7 +9,10 @@
 
 ## The map
 
-![The OpenWiz factory: Graph, Loops, Hands, Eyes and Site around it, all inside Cloudroom](map.png)
+<picture>
+  <source media="(max-width: 600px)" srcset="map-phone.png">
+  <img alt="The OpenWiz factory: Graph, Loops, Hands, Eyes and Site around it, all inside Cloudroom" src="map.png" width="640">
+</picture>
 
 - **The factory: [OpenWiz](https://github.com/openwizdev/OpenWiz).** You decide; agents build.
 - **Graph: WizSkills.** The plan, grill, build and review skills. The repo opens soon.
