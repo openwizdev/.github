@@ -1,7 +1,8 @@
 // Draws the OpenWiz architecture maps as hand-drawn pictures.
 // Usage: node draw.mjs <Virgil-Regular.woff2> <out-dir>
 // Writes one HTML page per map; render each with headless Chromium:
-//   chromium --headless --screenshot=<map>.png --window-size=900,<height> --force-device-scale-factor=2 <map>.html
+//   chromium --headless --screenshot=<map>.png --window-size=<width>,<height> --force-device-scale-factor=2 <map>.html
+// (each page prints "name height width"; see README.md).
 import { writeFileSync } from 'node:fs';
 import { pathToFileURL } from 'node:url';
 
