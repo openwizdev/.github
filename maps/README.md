@@ -13,7 +13,7 @@ done < out/sizes
 
 | Picture | Goes to |
 | --- | --- |
-| `org.png`, `org-phone.png` | `profile/map.png`, `profile/map-phone.png` here |
+| `org.png`, `org-phone.png` | Unused: the profile now shows `profile/art/map-*.png` |
 | `openwiz.png`, `openwiz-phone.png` | `docs/map.png`, `docs/map-phone.png` in OpenWiz |
 | `wizplugins.png`, `wizplugins-phone.png` | `docs/images/map.png`, `docs/images/map-phone.png` in WizPlugins |
 | `wizsite.png`, `wizsite-phone.png` | `docs/map.png`, `docs/map-phone.png` in WizSite (also pinned in `scripts/check.py`'s `DOC_HASHES`) |
