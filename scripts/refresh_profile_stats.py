@@ -10,6 +10,7 @@ exits 0.
 from __future__ import annotations
 
 import datetime
+import http.client
 import json
 import os
 import pathlib
@@ -159,7 +160,14 @@ def main() -> int:
             return 0
         total_merged, _priv_total, market_listings = result
         record_day = fetch_record_day(token)
-    except (urllib.error.URLError, RuntimeError, KeyError, ValueError) as exc:
+    except (
+        urllib.error.URLError,
+        http.client.HTTPException,
+        OSError,
+        RuntimeError,
+        KeyError,
+        ValueError,
+    ) as exc:
         print(f"Skipping update due to API error: {exc}", file=sys.stderr)
         return 0
 
