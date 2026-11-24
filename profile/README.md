@@ -13,7 +13,7 @@ OpenWiz is a free, open source kernel for agent factories: it runs fleets of AI 
 
 The kernel is small: records on GitHub, four driver commands (`version`, `start`, `wake`, `stop`) and a test kit. Your agents run on your computer or a VPS, on Cloudroom, or on boat.dev. OpenWiz never touches a login, and there is no server of ours.
 
-It builds itself, in public. **Status:** [OpenWiz 0.1.1](https://github.com/openwizdev/OpenWiz/releases) is out for macOS (Apple silicon or Intel) and Linux x86_64.
+It builds itself, in public. **Status:** [OpenWiz 0.01](https://github.com/openwizdev/OpenWiz/releases/tag/v0.1.0) (0.1.0) is out for macOS and Linux x86_64.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openwizdev/.github/main/profile/art/map-dark.png">
