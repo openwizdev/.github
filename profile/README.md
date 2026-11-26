@@ -23,7 +23,7 @@ The kernel is small: records on GitHub, four driver commands (`version`, `start`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openwizdev/.github/main/profile/art/map-dark.png">
-  <img alt="How the repos fit: WizSkills and WizLoops feed OpenWiz, the kernel. OpenWiz drives your agents and machines and writes records to GitHub. WizSite's app reads GitHub. WizPlugins holds plugins for the ADEs you use, starting with WizBar. Private records and tools sit apart." src="https://raw.githubusercontent.com/openwizdev/.github/main/profile/art/map-light.png" width="680">
+  <img alt="How the repos fit: WizSkills and WizLoops feed OpenWiz, the kernel. OpenWiz drives your agents and machines and writes records to GitHub. WizSite's app reads GitHub, and WizMarket's listings feed that site. WizPlugins holds plugins for the ADEs you use, starting with WizBar. Private records and tools sit apart." src="https://raw.githubusercontent.com/openwizdev/.github/main/profile/art/map-light.png" width="680">
 </picture>
 
 | Repo | What it is | Licence |
@@ -34,5 +34,8 @@ The kernel is small: records on GitHub, four driver commands (`version`, `start`
 | [WizSite](https://github.com/openwizdev/WizSite) | [openwiz.dev](https://openwiz.dev) and the app that shows your factory | Apache-2.0 |
 | [WizMarket](https://github.com/openwizdev/WizMarket) | The OpenWiz marketplace registry: one small file per listing, added by pull request | Apache-2.0 |
 | [WizPlugins](https://github.com/openwizdev/WizPlugins) | Plugins for the ADEs you use, starting with WizBar | MIT |
+| [todo-demo](https://github.com/openwizdev/todo-demo) | A to-do app an OpenWiz fleet built, the demo behind openwiz.dev | no licence file |
+| [marketplace](https://github.com/openwizdev/marketplace) | Fork of the BB plugin registry | no licence file |
+| [.github](https://github.com/openwizdev/.github) | This org profile, and the default security policy | Apache-2.0 |
 
 [openwiz.dev](https://openwiz.dev) · [What is OpenWiz?](https://openwiz.dev/what-is-openwiz/) · [the app](https://openwiz.dev/app) · [WizMarket](https://openwiz.dev/market) · [Changelog](https://openwiz.dev/changelog/) · [X @openwiz](https://x.com/openwiz)
