@@ -3,6 +3,8 @@
   <img alt="OpenWiz. Your agents. Your machines. Your rules. The Wiz family waves along the bottom." src="https://raw.githubusercontent.com/openwizdev/.github/main/profile/art/banner-light.png">
 </picture>
 
+Part of [OpenWiz](https://openwiz.dev), the open source agent factory.
+
 **OpenWiz is the open kernel for agent factories. Bring your own everything. Owned by no one.**
 
 OpenWiz is a free, open source kernel for agent factories: it runs fleets of AI coding agents, such as Claude Code and Codex, on your own computers or cloud machines, with the plan, tickets and reviews kept as records on GitHub.
