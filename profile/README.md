@@ -37,6 +37,8 @@ The kernel is small: records on GitHub, four driver commands (`version`, `start`
 | [WizMarket](https://github.com/openwizdev/WizMarket) | The OpenWiz marketplace registry: one small file per listing, added by pull request | Apache-2.0 |
 | [WizPlugins](https://github.com/openwizdev/WizPlugins) | Plugins for the ADEs you use, starting with WizBar | MIT |
 | [todo-demo](https://github.com/openwizdev/todo-demo) | A to-do app an OpenWiz fleet built, the demo behind openwiz.dev | no licence file |
+| [lakers](https://github.com/openwizdev/lakers) | A phone-first Lakers companion for live games, standings and data insights | Apache-2.0 |
+| [driver-template](https://github.com/openwizdev/driver-template) | Template for building and testing an OpenWiz driver | no licence file |
 | [marketplace](https://github.com/openwizdev/marketplace) | Fork of the BB plugin registry | no licence file |
 | [.github](https://github.com/openwizdev/.github) | This org profile, and the default security policy | Apache-2.0 |
 
